@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Luisa Gavlak
 
  
-- ⚡ Estudo atual -> Reactjs
+- 🧾 Estudo atual -> Reactjs
 - 💜 Estou procurando colaborar em projetos incríveis e fazer parte de uma equipe incrível!
 
 <div align="center">
@@ -16,8 +16,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/236adb31e574f12d893474995123a21b.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
-</div>
   
   ##
   

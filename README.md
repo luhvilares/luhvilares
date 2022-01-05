@@ -2,7 +2,6 @@
 
  
 - 🧾 Estudo atual -> Reactjs
-- 💜 Estou procurando colaborar em projetos incríveis e fazer parte de uma equipe incrível!
 
 <div align="center">
   <a href="https://github.com/luhgavlak">

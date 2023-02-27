@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hi, I am Luisa. A passionate frontend developer⚡</h1>
+<h1 align="center">⚡ Hi, I am Luisa⚡</h1>
 <h3 align="center">Welcome to my Github profile</h3>
 
 

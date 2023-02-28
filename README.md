@@ -4,9 +4,9 @@
 
 ## Github Stats
 <div align="center">
-  <a href="https://github.com/luhgavlak">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luhgavlak&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhgavlak&layout=compact&langs_count=7&theme=apprentice"/>
+  <a href="https://github.com/luhvilares">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luhvilares&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhvilares&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
   
   ## Technologies & Tools
@@ -19,5 +19,5 @@
   ##
   
   
- ![Snake animation](https://github.com/luhgavlak/luhgavlak/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/luhvilares/luhvilares/blob/output/github-contribution-grid-snake.svg)
 

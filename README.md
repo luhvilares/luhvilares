@@ -5,8 +5,8 @@
 ## Github Stats
 <div align="center">
   <a href="https://github.com/luhvilares">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luhvilares&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&bg_color=DEG,8c3616,bf5935,d9a378"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhvilares&layout=compact&langs_count=7&theme=aura_dark&bg_color=DEG,8c3616,bf5935,d9a378"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luhvilares&show_icons=true&theme=calm&include_all_commits=true&count_private=true&bg_color=DEG,8c3616,bf5935&ring_color=f2c6b6"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhvilares&layout=compact&langs_count=7&theme=calm&bg_color=DEG,8c3616,bf5935"/>
 </div>
   
   ## Technologies & Tools

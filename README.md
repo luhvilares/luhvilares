@@ -19,6 +19,6 @@
   ##
   
   
- ![Snake animation](https://github.com/luhvilares/luhvilares/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/luhvilares/luhvilares/blob/main/.github/workflows/cobrinha.yml)
 
 

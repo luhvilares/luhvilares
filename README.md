@@ -19,6 +19,3 @@
 [![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/luhvilares)
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/luhvilares) 
 
- 
-  
- <!--![Snake animation](https://github.com/luhvilares/luhvilares/blob/main/.github/workflows/cobrinha.yml)-->
